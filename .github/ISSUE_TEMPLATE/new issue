@@ -1,0 +1,17 @@
+---
+name: Update Requests
+about: Request updates/uploads to modules
+title: "all papers"
+labels: enhancement
+assignees: camcribs
+
+---
+
+# **Module ID**
+All papers and example sheets
+
+# **Describe what you will like to be uploaded**
+PDF embed API does not seem to be working on Edge browser, is there a fix for this?
+
+# Anything Else
+....
